@@ -19,7 +19,7 @@
         "xlsx": "^0.17.5"
     },
     "devDependencies": {
-        "@web/dev-server": "^0.1.28"
+        "@web/dev-server": "^0.1.29"
     },
     "scripts": {
         "start": "web-dev-server --node-resolve --app-index index.html --watch --open"
