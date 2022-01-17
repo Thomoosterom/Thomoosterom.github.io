@@ -1,6 +1,6 @@
 import { LitElement, html, css } from 'lit';
 import { connect } from 'pwa-helpers';
-const {Router} = window.Vaadin;
+import { Router } from '@vaadin/router';
 import { store } from '../../service/AppService';
 import { Toets } from '../../model/Toets';
 import { CursusService } from '../../service/CursusService';
