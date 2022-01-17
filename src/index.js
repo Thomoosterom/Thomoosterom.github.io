@@ -31,10 +31,9 @@ import './view/pages/student-page/student-page';
 import './view/pages/page-not-found/page-not-found';
 
 
-import '../@material/mwc-button';
-import '../@material/mwc-textfield';
-import '../@material/mwc-textarea';
-import '../@material/mwc-formfield';
-import '../@material/mwc-checkbox';
-import '../@material/mwc-icon';
-
+import "./node_modules/@material/mwc-button"
+import "./node_modules/@material/mwc-textfield"
+import "./node_modules/@material/mwc-textarea"
+import "./node_modules/@material/mwc-formfield"
+import "./node_modules/@material/mwc-checkbox"
+import "./node_modules/@material/mwc-icon"
