@@ -31,10 +31,10 @@ import './view/pages/student-page/student-page';
 import './view/pages/page-not-found/page-not-found';
 
 
-// import '@material/mwc-button';
-// import '@material/mwc-textfield';
-// import '@material/mwc-textarea';
-// import '@material/mwc-formfield';
-// import '@material/mwc-checkbox';
-// import '@material/mwc-icon';
+import '../@material/mwc-button';
+import '../@material/mwc-textfield';
+import '../@material/mwc-textarea';
+import '../@material/mwc-formfield';
+import '../@material/mwc-checkbox';
+import '../@material/mwc-icon';
 
