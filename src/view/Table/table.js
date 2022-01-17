@@ -10,7 +10,7 @@ import {
 import { CursusService as cursusService } from '../../service/CursusService';
 import { connect } from 'pwa-helpers';
 import { store } from '../../service/AppService';
-import { Router } from '@vaadin/router';
+const {Router} = window.Vaadin;
 
 export class TablePage extends connect(store)(LitElement){
     static styles = css `

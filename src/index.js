@@ -1,5 +1,5 @@
 
-import '@vaadin/router';
+
 
 import './service/AppRouting';
 import './service/AppService';
