@@ -1,5 +1,5 @@
 
-import '@vaadin/router';
+
 
 import './service/AppRouting';
 import './service/AppService';
@@ -37,3 +37,4 @@ import "./node_modules/@material/mwc-textarea"
 import "./node_modules/@material/mwc-formfield"
 import "./node_modules/@material/mwc-checkbox"
 import "./node_modules/@material/mwc-icon"
+import "./node_modules/@vaadin/router"
